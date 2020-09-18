@@ -1,1 +1,5 @@
-# test-relative-image-path-github
+# test-relative-images-gitlab
+
+Puppy gitlab
+![cute puppy](./src/puppy.jpg)
+
